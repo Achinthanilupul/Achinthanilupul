@@ -56,11 +56,6 @@
 
 [![Cover](https://github.com/RajithaPeiris-PersonalPortfolio/CODING-GIF-IMAGE/blob/main/coding.gif)](https://github.com/RajithaPeiris-PersonalPortfolio/)
 
-<br>
-
-![](https://github.com/RajithaPeiris-PersonalPortfolio/GITHUB-README-VIDEO/blob/main/ezgif.com-video-to-gif.gif)
-  
-<br>
 
 <!--[![Cover](
 https://github.com/RajithaPeiris-PersonalPortfolio/CODING-GIF-IMAGE/blob/main/github-contribution-grid-snake.svg)](https://github.com/RajithaPeiris-PersonalPortfolio/)-->
