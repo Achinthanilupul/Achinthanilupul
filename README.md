@@ -57,7 +57,7 @@
 [![Cover](https://github.com/Achinthanilupul/COVER-IMG/blob/master/COVER-IMG/coding.gif)
 
 
-</br> 
+
 
 <img alt="github contribution snake animation" src="https://github.com/Achinthanilupul/COVER-IMG/blob/master/COVER-GIF/grid-snake.svg">
 
