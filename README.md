@@ -52,12 +52,11 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-<br />
+<br/>
 
-[![Cover](https://github.com/Achinthanilupul/COVER-IMG/blob/master/COVER-IMG/coding.gif)
+![Cover](https://github.com/Achinthanilupul/COVER-IMG/blob/master/COVER-IMG/coding.gif)
 
-
-
+<br>
 
 <img alt="github contribution snake animation" src="https://github.com/Achinthanilupul/COVER-IMG/blob/master/COVER-GIF/grid-snake.svg">
 
