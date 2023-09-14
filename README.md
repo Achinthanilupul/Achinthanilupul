@@ -54,7 +54,7 @@
 
 <br />
 
-[![Cover](https://github.com/RajithaPeiris-PersonalPortfolio/CODING-GIF-IMAGE/blob/main/coding.gif)](https://github.com/RajithaPeiris-PersonalPortfolio/)
+[![Cover](https://github.com/Achinthanilupul/COVER-IMG/blob/master/COVER-IMG/coding.gif)
 
 
 <!--[![Cover](
