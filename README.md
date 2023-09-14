@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **a PHP (CodeIgniter) project.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RajithaPeiris-PersonalPortfolio](https://github.com/RajithaPeiris-PersonalPortfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Achinthanilupul](https://github.com/Achinthanilupul)]
 
 - 💬 Ask me about **ASP.NET Core, ASP.NET MVC, MS SQL Server, React JS, Express JS and Mongo DB.**
 
