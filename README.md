@@ -20,6 +20,9 @@
 
 - ⚡ Fun fact **I think I am a social, outgoing person...**
 
+[![Cover]( https://github.com/Achinthanilupul/COVER-IMG/blob/master/COVER-IMG/Black%20and%20White%20Modern%20Linkedin%20Banner.png)
+ 
+
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
